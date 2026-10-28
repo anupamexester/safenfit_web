@@ -1,0 +1,6 @@
+{
+  "name": "safeNfit - Healthy Food & Meal Subscriptions",
+  "description": "Artisanal healthy meal plans, thalis, custom macro meal boxes, and flexible subscriptions. Healthy Food. Healthy You.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
